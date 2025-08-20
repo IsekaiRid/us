@@ -1,8 +1,8 @@
-# 👾 Hi, I'm [Nama Kamu]!  
+# 👾 Hi, I'm Ridhwan sulaiman suzana
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px">
-</p>
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar Typer" />
+</div>
 
 ---
 
